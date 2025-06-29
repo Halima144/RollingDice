@@ -1,0 +1,4 @@
+android/** linguist-vendored
+ios/** linguist-vendored
+*.ts linguist-language=TypeScript
+*.tsx linguist-language=TypeScript
